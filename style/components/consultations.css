@@ -1,0 +1,73 @@
+.consultations-item {
+  text-align: center;
+  color: white;
+}
+
+.consultations-button {
+  display: flex;
+  justify-content: center;
+  padding-bottom: 80px;
+}
+
+.consultations-button1 {
+  padding-left: 20px;
+  padding-top: 20px;
+  text-transform: uppercase;
+  background-color: #fbcc0a;
+  color: white;
+  width: 210px;
+  height: 60px;
+  justify-content: center;
+  align-items: center;
+  border-radius: 10%;
+}
+
+.consultations-button2 {
+  margin-left: 30px;
+  padding-left: 35px;
+  padding-top: 20px;
+  text-transform: uppercase;
+  background-color: white;
+  color: black;
+  width: 210px;
+  height: 60px;
+  justify-content: center;
+  align-items: center;
+  border-radius: 10%;
+}
+
+#consultations-button1-arrow {
+  margin-left: 10px;
+}
+
+#consultations-button2-arrow {
+  margin-left: 10px;
+}
+
+.consultations-item p {
+  padding-top: 80px;
+  font-size: 20px;
+}
+
+.consultations-item h2 {
+  padding-top: 20px;
+  padding-bottom: 50px;
+  font-size: 55px;
+  line-height: 55px;
+}
+
+.consultations {
+  background-image: url('../../img/cta-bg.jpg');
+  background-size: 130% auto;
+  background-position: top;
+  background-size: cover;
+  background-attachment: fixed;
+  position: relative;
+  padding: 250px 0;
+}
+
+.back-square {
+  position: absolute;
+  inset: 0;
+  background-color: rgba(0, 0, 0, 0.3);
+}

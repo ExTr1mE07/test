@@ -1,0 +1,114 @@
+.pricing {
+    background-color:#f4f5f8;
+    height: 1000px;
+}
+
+.pricing-yellow-text {
+    color: #fbcc0a;
+}
+
+.pricing-counter{
+    display: flex;
+}
+
+.pricing-counter sub{
+    font-size: 30px;
+    margin-top: 10px;
+}
+
+
+
+.pricing-header-text {
+    padding-top: 100px;
+    margin-top: 100px;
+    font-size: 65px;
+    margin-bottom: 30px;
+    font-family: "Open Sans", sans-serif;
+    text-align: center;
+}
+
+.pricing-header-text2 {
+    color: #686a6f;
+    font-size: 20px;
+    line-height: 30px;
+    text-align: center;
+    margin-bottom: 50px;
+}
+
+.pricing-container {
+    display: flex;
+    justify-content: center;
+}
+
+.pricing-container-item h3 {
+    font-size: 30px;
+    font-weight: 500;
+}
+
+.pricing-container-item p {
+    line-height: 25px;
+    margin-top: 20px;
+    margin-bottom: 40px;
+    font-size: 50px;
+}
+
+.pricing-container-item a {
+    text-transform: uppercase;
+    background-color: #fbcc0a;
+    box-shadow: 0 0 40px 5px rgba(0, 0, 0, 0.02);
+    color: white;
+    width: 215px;
+    height: 60px;
+    justify-content: center;
+    align-items: center;
+    border-radius: 10%;
+    display: flex;
+}
+
+.pricing-container-item ul {
+    font-size: 18px;
+    margin-top: 20px;
+    line-height: 35px;
+}
+
+.pricing-container-item {
+    background-color: white;
+    padding-top: 50px;
+    padding-left: 40px;
+    padding-right: 30px;
+    padding-bottom: 50px;
+}
+
+#pricing-container-item-p {
+    color: #686a6f;
+    font-size: 18px;
+}
+
+.pricing-container-item i {
+    color: #fbcc0a;
+    margin-right: 10px;
+}
+
+#pricing-container-item-a {
+    font-size: 13px;
+    margin-left: 15px;
+    color: white;
+}
+
+#pricing-container-item-one {
+    padding-bottom: 0px;
+    margin-top: 20px;
+    height: 480px;
+}
+
+#pricing-container-item-three {
+    padding-right: 70px;
+    margin-top: 20px;
+}
+
+#pricing-container-item-two {
+    -webkit-box-shadow: 2px 3px 100px -28px rgba(34, 60, 80, 0.13);
+    -moz-box-shadow: 2px 3px 100px -28px rgba(34, 60, 80, 0.13);
+    box-shadow: 2px 3px 100px -28px rgba(34, 60, 80, 0.13);
+    padding-right: 70px;
+}

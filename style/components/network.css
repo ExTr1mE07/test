@@ -1,0 +1,38 @@
+.network {
+    margin-left: 12%;
+    width: 1280px;
+    border-top: 1px solid #e1e1e1;
+    height: 200px;
+}
+
+.network-black {
+    color: black;
+}
+
+.network-container {
+    margin-top: 50px;
+    display: flex;
+}
+
+.network p {
+    color: #686a6f;
+    font-size: 18px;
+}
+
+.network a {
+    color: black;
+    margin-top: 50px;
+}
+
+.network-container-item a {
+    background-color: #fbcc0a;
+    padding: 18px;
+    border-radius: 100%;
+    color: white;
+    margin-right: 20px;
+    font-size: 17px;
+}
+
+.network-container-item {
+    margin-left: 900px;
+}
